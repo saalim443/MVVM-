@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="dark_yello">#D69209</color>
+    <color name="gray">#DAD9D7</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#F1D78B</color>
+    <string name="app_name">SaalimMVVM</string>
+    <string name="description">A product is any item or service you sell to serve a customer\'s need or want.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="Base.Theme.SaalimMVVM" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        
+    </style>
+    <style name="HeaderText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">#999494</item>
+    </style>
+</resources>

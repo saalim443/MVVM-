@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-mergeDebugResources-51:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-mergeDebugResources-51:\\layout\\fragment_detail.xml",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\fragment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-mergeDebugResources-51:\\layout\\item_child.xml",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\item_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-mergeDebugResources-51:\\layout\\slider_item.xml",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\slider_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-mergeDebugResources-51:\\layout\\item_recyclerview.xml",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\item_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-mergeDebugResources-51:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-mergeDebugResources-51:\\layout\\fragment_cart.xml",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-mergeDebugResources-51:\\layout\\item_row.xml",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\item_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-mergeDebugResources-51:\\layout\\item_history_product.xml",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\item_history_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-mergeDebugResources-51:\\layout\\activity_cart.xml",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-mergeDebugResources-51:\\layout\\item_allcate.xml",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\item_allcate.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-mergeDebugResources-51:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-mergeDebugResources-51:\\layout\\item_data.xml",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\item_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-mergeDebugResources-51:\\layout\\fragment_show_history_product.xml",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\fragment_show_history_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-mergeDebugResources-51:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-mergeDebugResources-51:\\layout\\item_parent.xml",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\item_parent.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-mergeDebugResources-51:\\layout\\activity_show_data.xml",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\activity_show_data.xml"
+    },
+    {
+        "merged": "codeflies.com.saalimmvvm.app-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "codeflies.com.saalimmvvm.app-main-54:/layout/activity_main.xml"
+    }
+]

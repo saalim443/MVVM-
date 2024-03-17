@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    
+
+                 
+                            
+                                                                      
+
+           
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true"
+        tools:context=".MainActivity" android:tag="layout/fragment_home_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="12dp">
+
+            <LinearLayout
+                android:id="@+id/lnrtop"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:gravity="center"
+                >
+
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/round"
+                    android:drawableStart="@drawable/search"
+                    android:inputType="text"
+                    android:drawablePadding="10dp"
+                    android:hint="Search Products or Services"
+                    android:padding="8dp"
+                    android:textSize="12dp"
+                    android:layout_weight="3"
+                    />
+
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="45dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/account"
+                    />
+
+            </LinearLayout>
+
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cvviewpager"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/lnrtop"
+                android:layout_marginTop="5dp"
+                app:cardCornerRadius="5dp"
+                android:layout_centerHorizontal="true"
+                >
+
+                <androidx.viewpager.widget.ViewPager
+                    android:id="@+id/viewPager"
+                    android:layout_width="match_parent"
+                    android:layout_height="160dp"
+                    />
+            </androidx.cardview.widget.CardView>
+
+
+
+            <RelativeLayout
+                android:id="@+id/rvVVVV"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/cvviewpager"
+                >
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rvAllCate"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    tools:listitem="@layout/item_allcate"
+                    android:layout_alignParentTop="true"
+                    android:background="@drawable/background_bg"
+                    android:layout_centerHorizontal="true"
+                    app:spanCount="4"
+                    tools:itemCount="3"
+                    app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+                    />
+
+
+
+
+
+            </RelativeLayout>
+
+
+
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/lnrTwo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="4dp"
+                android:elevation="4dp"
+                android:layout_marginTop="5dp"
+                android:layout_below="@+id/rvVVVV"
+                >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center|start"
+                        android:layout_weight="3"
+                        android:layout_marginLeft="10dp"
+                        android:orientation="vertical">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="12dp"
+                            android:text="Need help with your purchase ?"
+                            android:textColor="@color/black"
+                            />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/black"
+                            android:maxLines="1"
+                            android:textSize="12dp"
+                            android:text="Speak with our experts &amp; place your order hassle free "
+                            />
+
+                    </LinearLayout>
+
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableStart="@drawable/baseline_add_call_24"
+                        android:text="Call now"
+                        android:padding="10dp"
+                        android:textAllCaps="false"
+                        android:backgroundTint="@color/yellow"
+                        android:layout_margin="5dp"/>
+
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rvTopCategoryArray"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/lnrTwo"
+                android:layout_centerHorizontal="true"
+                android:nestedScrollingEnabled="false"
+                android:layout_marginTop="10dp"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
+
+
+            <TextView
+                android:id="@+id/txtSlider2"
+                android:layout_width="match_parent"
+                android:textStyle="bold"
+                android:layout_marginTop="7dp"
+                android:textSize="16sp"
+                android:layout_below="@+id/rvTopCategoryArray"
+                android:layout_height="wrap_content"/>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cvviewpager2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtSlider2"
+                android:layout_marginTop="7dp"
+                app:cardCornerRadius="5dp"
+                android:layout_centerHorizontal="true"
+                >
+
+                <androidx.viewpager.widget.ViewPager
+                    android:id="@+id/viewPager2"
+                    android:layout_width="match_parent"
+                    android:layout_height="160dp"
+                    />
+            </androidx.cardview.widget.CardView>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerMaintainence"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/cvviewpager2"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="15dp"
+                android:nestedScrollingEnabled="false"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
+
+
+
+
+            <ProgressBar
+                android:id="@+id/progressBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:visibility="gone" />
+        </RelativeLayout>
+    </androidx.core.widget.NestedScrollView>
+
+
+         

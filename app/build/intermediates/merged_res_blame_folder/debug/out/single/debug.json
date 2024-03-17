@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\drawable_background_bg.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\drawable\\background_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\menu_sidebar_menu.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\menu\\sidebar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\drawable_baseline_add_call_24.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\drawable\\baseline_add_call_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\layout_item_data.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\item_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\layout_slider_item.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\slider_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\drawable_baseline_add_home_24.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\drawable\\baseline_add_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\drawable_baseline_arrow_right_alt_24.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\drawable\\baseline_arrow_right_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\layout_fragment_show_history_product.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\fragment_show_history_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\layout_item_recyclerview.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\item_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\drawable_account.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\drawable\\account.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\drawable_search.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\drawable\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\drawable_round_apps_outage_24.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\drawable\\round_apps_outage_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\layout_item_child.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\item_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\layout_activity_show_data.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\activity_show_data.xml"
+    },
+    {
+        "merged": "codeflies.com.saalimmvvm.app-merged_res-52:/layout_activity_main.xml.flat",
+        "source": "codeflies.com.saalimmvvm.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\layout_item_history_product.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\item_history_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\drawable_round.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\drawable\\round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\drawable_roundbtn.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\drawable\\roundbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\layout_item_allcate.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\item_allcate.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\layout_fragment_cart.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\layout_item_parent.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\item_parent.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\drawable_sidebar_24.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\drawable\\sidebar_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\layout_fragment_detail.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\fragment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\navigation_nav_bar.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\navigation\\nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\layout_item_row.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\item_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-merged_res-52:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\sam\\.gradle\\daemon\\8.2\\codeflies.com.saalimmvvm.app-main-54:\\layout\\fragment_profile.xml"
+    }
+]
